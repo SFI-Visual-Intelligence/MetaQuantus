@@ -1,3 +1,5 @@
+Paper: The Meta-Evaluation Problem in Explainable AI: Identifying Reliable Estimators with MetaQuantus ([Link](https://api.nva.unit.no/publication/0198cc476488-7b3c72a8-df4b-4678-943d-4c4e7c6d84d6))
+
 <br/><br/>
 <p align="center">
   <img width="450" src="https://raw.githubusercontent.com/annahedstroem/MetaQuantus/main/logo.png">
